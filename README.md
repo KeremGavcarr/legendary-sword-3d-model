@@ -35,9 +35,6 @@ This repository contains a high-quality, stylized 3D model of a legendary fantas
 ## Preview
 ![sword](https://github.com/user-attachments/assets/245a22ab-8086-4484-a424-b2e2de433611)
 
-![Sword Preview]![image](https://github.com/user-attachments/assets/cefb7fd1-3d17-437a-ae52-8e2f08c61448)
-
-
 ---
 
 ## License
