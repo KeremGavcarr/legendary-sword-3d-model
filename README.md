@@ -1,7 +1,6 @@
 # Legendary Sword 3D Model (Blender)
 
-![image](https://github.com/user-attachments/assets/df69ebe1-41fc-405d-9deb-2043065970f9)
-
+![sword](https://github.com/user-attachments/assets/6c7d5100-9c9b-48ae-a4b6-c00b28f31c9b)
 
 ## About the Project
 
@@ -33,7 +32,11 @@ This repository contains a high-quality, stylized 3D model of a legendary fantas
 ---
 
 ## Preview
-![sword](https://github.com/user-attachments/assets/245a22ab-8086-4484-a424-b2e2de433611)
+![sword](https://github.com/user-attachments/assets/5560772b-d181-4a0e-aa36-db9b853bf413)
+
+-------
+
+![sword2](https://github.com/user-attachments/assets/252df512-b30b-490e-abfd-cc279b00e62d)
 
 ---
 
