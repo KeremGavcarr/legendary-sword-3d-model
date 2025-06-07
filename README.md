@@ -10,7 +10,7 @@ This repository contains a high-quality, stylized 3D model of a legendary fantas
 
 ## Features
 
-- **Software:** Blender 3.x
+- **Software:** Blender 4.4.3
 - **Model Type:** Stylized Fantasy Sword
 - **Polycount:** ~400 vertices (low-poly friendly)
 - **Techniques:** Hard Surface Modeling, Mirror Modifier, Solidify Modifier, Mesh Optimization
